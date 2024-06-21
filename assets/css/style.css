@@ -50,6 +50,13 @@ h6 {
   transition: all 0.4s;
 }
 
+#my-export {
+  position: fixed;
+  right: 15px;
+  top: 70px;
+  z-index: 9999;
+}
+
 .back-to-top i {
   font-size: 28px;
   color: #fff;
